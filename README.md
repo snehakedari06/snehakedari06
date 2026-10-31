@@ -1,206 +1,83 @@
-<div align="center">
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:3b0764,70:7c3aed,100:06b6d4&height=260&section=header&text=SNEHA%20KEDARI&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Software%20Development%20%E2%80%A2%20Backend%20%E2%80%A2%20AI%20Engineering&descAlignY=68&descSize=20&stroke=7c3aed&strokeWidth=3&animation=fadeIn" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,40:3b0764,70:7c3aed,100:06b6d4&height=260&section=header&text=SNEHA%20KEDARI&fontSize=70&fontColor=ffffff&fontAlignY=45&desc=Python%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Problem%20Solving&descAlignY=68&descSize=20&stroke=7c3aed&strokeWidth=3&animation=fadeIn" width="100%"/>
+Typing SVG
 
-<br/>
+Email Location LinkedIn LeetCode
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=%3E+Python+Programmer;%3E+Cybersecurity+Enthusiast;%3E+B.Tech+CSE+%40+SRM;%3E+Always+Learning+and+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<br/>
-
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarisneha2007@gmail.com)
-[![Location](https://img.shields.io/badge/Guntur%2C_India-06b6d4?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/search/?api=1&query=Guntur%2C%20Andhra+Pradesh)
-[![GPA](https://img.shields.io/badge/GPA-9.0%2F10-22c55e?style=for-the-badge&logo=academia&logoColor=white)](#-education)
-
-<br/>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-7c3aed?style=for-the-badge&logo=shieldsdotio&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures-06b6d4?style=for-the-badge&logo=databricks&logoColor=white)
-![B.Tech](https://img.shields.io/badge/B.Tech-CSE-a78bfa?style=for-the-badge)
+Show Image Show Image Show Image Show Image Show Image
 
 </div>
+👩‍💻 About Me
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+I'm a third-year B.Tech Computer Science and Engineering student (with a minor in Management) who enjoys building backend services and practical AI applications. I've worked on a placement recommendation system during my internship, built small tools in Python, and I'm currently working on an AI developer assistant with my team.
 
-## 👩‍💻 About Me
+I'm actively solving Data Structures and Algorithms problems on LeetCode using C++, and I'm open to software development, backend, full-stack, and AI/GenAI internships.
 
-```python
-class SnehaKedari:
-    name       = "Sneha Kedari"
-    role       = "B.Tech Computer Science Student"
-    university = "SRM University"
-    location   = "Guntur, Andhra Pradesh, India 🇮🇳"
-    interests  = ["Python", "Cybersecurity", "Data Structures"]
-    strengths  = ["Problem Solving", "Team Collaboration"]
-    languages  = ["Telugu", "Hindi", "English"]
-    status     = "Currently learning, building, breaking (ethically) 🔐"
+🛠️ Technical Skills
+Domain	Skills
+Languages	C, C++, Python, JavaScript, TypeScript
+Backend	FastAPI, REST APIs, Node.js, Express.js
+Frontend	React.js, HTML, CSS, Tailwind CSS
+AI / GenAI	LLM integration, LangChain, RAG, embeddings and semantic search (pgvector), prompt engineering
+Databases & Tools	PostgreSQL, Prisma ORM, MongoDB, Git, GitHub, Pytest
+Core CS	Data Structures and Algorithms, OOP, DBMS, Operating Systems, SDLC, cybersecurity basics
+Problem Solving	Actively solving DSA problems on LeetCode using C++
+💼 Experience
+Agentic Product Engineering Intern — CCC (2026)
+Contributed to an AI-powered Placement Recommendation System that matches student profiles with relevant job opportunities.
+Assisted in building features to identify skill gaps between student profiles and job requirements.
+Worked with React.js, TypeScript, Vite, Tailwind CSS, Node.js/Express, PostgreSQL, and Prisma ORM; supported RAG, semantic search (pgvector), and LLM-based agentic workflows using LangChain and Ollama.
+Python & Cybersecurity Intern — Tamizhan Skills (2024)
+Developed Python-based projects, including a Password Strength Checker and an educational Keylogger.
+Applied cybersecurity concepts through hands-on projects.
+Active Member — IR Council, SRM University (2024 – Present)
+Coordinated council activities and managed team communication for smooth event execution.
+Organized events and contributed ideas to improve team performance.
+Events Team Member — HackSastra (Student Community)
+Managed workshops with 200+ participants as a member of the events team.
+🚀 Projects
+Aevor AI — AI Developer Assistant (ongoing, team project)
 
-    def goal(self):
-        return "Learning, building, and improving every day."
+An AI assistant for software developers: point it at a codebase and ask questions like "How does login work in this project?" and get answers based on the project's actual files. My team and I started it on our own, and I'm working on the AI model side of the Python and FastAPI service. Still in progress.
 
-if __name__ == "__main__":
-    print(SnehaKedari().goal())
-```
+Python FastAPI Pydantic Pytest
 
-> 💡 I build useful applications, solve programming challenges, and love collaborating with teams.
+Her Haven — AI Women's Safety Platform (team project)
 
----
+A platform combining discreet SOS messaging through image steganography, AI mental-health support, and a legal assistance chatbot. I worked on LLM integrations with Amazon Bedrock and FastAPI backend APIs connected to a Next.js frontend, and on RAG-based legal assistance and case matching with MongoDB Atlas Vector Search.
 
-## 🛠️ Technical Skills
+Python FastAPI Next.js MongoDB Amazon Bedrock View repository
 
-<div align="center">
+ClauseCheck — Legal Tech Suite (team project)
 
-<img src="https://skillicons.dev/icons?i=python,aws,git,github,linux,vscode,html,css&theme=dark" />
+A legal-tech platform with AI courtroom simulation, case-file summarization, and contract risk analysis. I contributed to the platform.
 
-<br/><br/>
+Python FastAPI React TypeScript
 
-| Domain | Skills |
-|:--|:--|
-| 🐍 **Programming** | Python, Debugging, Logical Problem Solving |
-| 🔐 **Cybersecurity** | Password Security, Network Basics, System Monitoring Concepts |
-| 🧠 **Core CS** | Data Structures, Record Management, Programming Fundamentals |
-| ☁️ **Cloud** | AWS Fundamentals (Job Simulation) |
-| 🤝 **Soft Skills** | Team Collaboration, Event Coordination, Communication |
+Greedy Fuel Optimizer
 
-</div>
+A Streamlit app that finds a low-cost fuel-purchase plan for a road trip using a greedy algorithm, and explains each purchase step by step.
 
----
+Python Streamlit Pandas Altair
 
-## 💼 Experience
+More projects
+Password Strength Checker — Python tool that evaluates password strength and suggests improvements.
+WiFi Scanner — Python utility that lists nearby WiFi networks with SSID and signal strength.
+Keylogger (educational) — built to understand system monitoring in a controlled learning environment.
+🎓 Education
 
-### 🐍 Python & Cybersecurity Intern — *Tamizhan Skills*
-- 🔸 Developed Python-based projects, including a **Password Strength Checker** and an educational **Keylogger** project
-- 🔸 Applied foundational cybersecurity concepts through practical, hands-on activities
-- 🔸 Strengthened debugging, logical thinking, and problem-solving skills through coding challenges
+B.Tech, Computer Science and Engineering (Minor in Management) — SRM University, Andhra Pradesh Expected graduation: 2028
 
-### 🤝 Active Member — *IR Council, SRM University*
-- 🔸 Coordinated council activities and supported team tasks
-- 🔸 Helped organize events and manage communication
-- 🔸 Contributed ideas and practical solutions to improve team coordination
-- 🔸 Collaborated with diverse team members to accomplish shared goals
+📜 Certifications
+Python Internship Certificate — Tamizhan Skills
+AWS Cloud Job Simulation — Forage
+Introduction to Cybersecurity Awareness — HP
+🌐 Languages
 
----
-
-## 🚀 Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 Password Strength Checker
-Python tool that evaluates password strength and gives suggestions to improve security.
-
-`Python` `Password Security` `Validation`
-
-</td>
-<td width="50%" valign="top">
-
-### 📶 WiFi Scanner
-Network utility that scans nearby WiFi networks and displays SSIDs with signal strengths.
-
-`Python` `Networking` `Wireless`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📋 Basic Attendance System
-Application to record, track, and manage student attendance.
-
-`Programming Fundamentals` `Record Management`
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 Hospital Management System
-System to manage patient records using data structures.
-
-`Data Structures` `Patient Records`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### ⌨️ Keylogger — *Educational Project*
-Built to understand system monitoring and backend data-handling concepts in a **controlled learning environment**.
-
-`Python` `Cybersecurity Concepts` `System Monitoring`
-
-</td>
-</tr>
-</table>
-
----
-
-## 📜 Certifications
+Telugu · Hindi · English
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python_Internship-Tamizhan_Skills-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS_Cloud_Job_Simulation-Forage-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![HP](https://img.shields.io/badge/Cybersecurity_Awareness-HP-0096D6?style=for-the-badge&logo=hp&logoColor=white)
-
-</div>
-
----
-
-## 🎓 Education
-
-**Bachelor of Technology — Computer Science**
-🏫 Sri Ramaswamy Memorial University (SRM), Vijayawada, Andhra Pradesh
-- 📅 Expected Graduation: **June 2028**
-- 📊 GPA: **9.0 / 10.0**
-
----
-
-## 🌐 Languages
-
-![Telugu](https://img.shields.io/badge/Telugu-7c3aed?style=flat-square)
-![Hindi](https://img.shields.io/badge/Hindi-06b6d4?style=flat-square)
-![English](https://img.shields.io/badge/English-a78bfa?style=flat-square)
-
----
-
-<!--
-📊 GITHUB STATS — uncomment after replacing YOUR_USERNAME with your GitHub username
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d0d0d" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d0d0d" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6" />
-
-</div>
--->
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-kedarisneha2007%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kedarisneha2007@gmail.com)
-
-<br/>
-
-```text
+text
 > status: open to internships, collaborations & cool projects
-> next_goal: build more, break more (ethically), learn forever
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=500&lines=Thanks+for+stopping+by!+%F0%9F%92%9C;Let%27s+build+something+awesome+together." />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0d0d0d&height=120&section=footer" width="100%"/>
+> next_goal: build more, ship more, learn forever
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:7c3aed,100:0d0d0d&height=120&section=footer" width="100%"/> </div>
